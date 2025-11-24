@@ -15,7 +15,7 @@ Backend: Node.js, Java
 Database: MongoDB
 Authentication: JWT / OAuth / Firebase (as applicable) Storage: Cloudinary / Firebase / Local uploads
 
-🚀 Getting Started To run this project locally: git clone https://github.com/ptiyansh0331/shopbuddy.git
+🚀 Getting Started To run this project locally: git clone https://github.com/priyansh0331/shopbuddy.git
 cd revibe 
 npm install
 npm run dev
