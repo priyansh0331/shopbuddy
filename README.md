@@ -1,5 +1,5 @@
 ShopBuddy is a modern web application that allows users to buy and sell pre-loved clothing and accessories. It’s designed to promote sustainable fashion by making thrifting easy, accessible, and fun for everyone.
-Website Link - https://revibe-git-main-maokanisha-gmailcoms-projects.vercel.app/product/vintage-denim-jacket
+Website Link - http://localhost:3000/
 🌟 Features
 Browse a wide collection of second-hand items
 User authentication (sign up, login, logout)
