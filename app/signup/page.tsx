@@ -4,15 +4,15 @@ import type { Metadata } from "next"
 import { SignupForm } from "@/components/signup-form"
 
 export const metadata: Metadata = {
-  title: "Sign Up | ReVibe",
-  description: "Create a new ReVibe account",
+  title: "Sign Up | ShopBuddy",
+  description: "Create a new ShopBuddy account",
 }
 
 export default function SignupPage() {
   return (
     <div className="container flex h-screen w-screen flex-col items-center justify-center">
       <Link href="/" className="absolute left-4 top-4 md:left-8 md:top-8 text-lg font-semibold tracking-tight">
-        ReVibe
+        ShopBuddy
       </Link>
       <div className="mx-auto flex w-full flex-col justify-center space-y-6 sm:w-[350px]">
         <div className="flex flex-col space-y-2 text-center">

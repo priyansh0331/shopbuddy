@@ -13,7 +13,7 @@ export default function Home() {
       <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur">
         <div className="container flex h-16 items-center justify-between">
           <Link href="/" className="text-xl font-semibold tracking-tight m-4">
-            ReVibe
+            ShopBuddy
           </Link>
           <nav className="hidden md:flex gap-6">
             <Link href="/shop" className="text-sm font-medium hover:underline underline-offset-4">
@@ -141,7 +141,7 @@ export default function Home() {
       </main>
       <footer className="border-t py-6 md:py-0">
         <div className="container flex flex-col md:flex-row justify-between items-center gap-4 md:h-16">
-          <p className="text-sm text-muted-foreground"> {new Date().getFullYear()} ReVibe. All rights reserved.</p>
+          <p className="text-sm text-muted-foreground"> {new Date().getFullYear()} ShopBuddy. All rights reserved.</p>
           <nav className="flex gap-4 md:gap-6">
             <Link href="/terms" className="text-xs text-muted-foreground hover:underline underline-offset-4">
               Terms

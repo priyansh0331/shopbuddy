@@ -10,8 +10,8 @@ import { AccountAddresses } from "@/components/account-addresses"
 import { AccountPayments } from "@/components/account-payments"
 
 export const metadata: Metadata = {
-  title: "Account | ReVibe",
-  description: "Manage your ReVibe account",
+  title: "Account | ShopBuddy",
+  description: "Manage your ShopBuddy account",
 }
 
 export default function AccountPage() {

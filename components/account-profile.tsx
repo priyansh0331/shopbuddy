@@ -84,7 +84,7 @@ export function AccountProfile() {
             <Label htmlFor="username">Username</Label>
             <Input id="username" defaultValue="kenny" disabled={isLoading} />
             <p className="text-xs text-muted-foreground">
-              This will be used for your public profile URL: revibe.com/user/kenny
+              This will be used for your public profile URL: shopbuddy.com/user/kenny
             </p>
           </div>
         </form>

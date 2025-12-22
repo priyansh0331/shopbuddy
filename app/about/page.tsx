@@ -10,14 +10,14 @@ export default function AboutPage() {
     <div className="container py-10">
       {/* Hero Section */}
       <section className="py-12 md:py-16 lg:py-20 text-center">
-        <h1 className="text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl mb-6">About ReVibe</h1>
+        <h1 className="text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl mb-6">About ShopBuddy</h1>
         <p className="mx-auto max-w-[700px] text-muted-foreground md:text-xl mb-8">
           We're on a mission to make sustainable fashion accessible, affordable, and impactful.
         </p>
         <div className="relative mx-auto max-w-4xl aspect-[16/9] rounded-lg overflow-hidden">
           <Image
             src="/our9.jpeg?height=720&width=1280"
-            alt="ReVibe team and community"
+            alt="ShopBuddy team and community"
             fill
             className="object-cover"
           />
@@ -30,7 +30,7 @@ export default function AboutPage() {
           <div>
             <h2 className="text-3xl font-bold tracking-tight mb-6 m-4">Our Story</h2>
             <p className="text-muted-foreground mb-4 m-4">
-              ReVibe began with a simple idea: to create a platform that extends the lifecycle of clothing while making
+              ShopBuddy began with a simple idea: to create a platform that extends the lifecycle of clothing while making
               a positive impact on our planet. Founded in 2025 by a group of fashion enthusiasts concerned about the
               environmental impact of fast fashion, we set out to revolutionize how people think about second-hand
               clothing.
@@ -49,7 +49,7 @@ This version clearly states that the project is currently a concept presented th
             <div className="aspect-square rounded-lg overflow-hidden">
               <Image
                 src="/our1.jpg?height=400&width=400"
-                alt="ReVibe founders"
+                alt="ShopBuddy founders"
                 width={400}
                 height={400}
                 className="object-cover h-full w-full"
@@ -58,7 +58,7 @@ This version clearly states that the project is currently a concept presented th
             <div className="aspect-square rounded-lg overflow-hidden">
               <Image
                 src="/our2.jpeg?height=400&width=400"
-                alt="ReVibe community event"
+                alt="ShopBuddy community event"
                 width={400}
                 height={400}
                 className="object-cover h-full w-full"
@@ -67,7 +67,7 @@ This version clearly states that the project is currently a concept presented th
             <div className="aspect-square rounded-lg overflow-hidden">
               <Image
                 src="/our3.jpg?height=400&width=400"
-                alt="ReVibe warehouse"
+                alt="ShopBuddy warehouse"
                 width={400}
                 height={400}
                 className="object-cover h-full w-full"
@@ -76,7 +76,7 @@ This version clearly states that the project is currently a concept presented th
             <div className="aspect-square rounded-lg overflow-hidden">
               <Image
                 src="/our6.jpeg?height=400&width=400"
-                alt="ReVibe team working"
+                alt="ShopBuddy team working"
                 width={400}
                 height={400}
                 className="object-cover h-full w-full"
@@ -229,8 +229,8 @@ This version clearly states that the project is currently a concept presented th
       <section className="py-12 md:py-16 lg:py-20">
         <div className="text-center mb-12">
           <h2 className="text-3xl font-bold tracking-tight mb-4">Our Values</h2>
-          <p className="text-muted-foreground max-w-[700px] mx-auto">
-            These core principles guide everything we do at ReVibe.
+            <p className="text-muted-foreground max-w-[700px] mx-auto">
+            These core principles guide everything we do at ShopBuddy.
           </p>
         </div>
 

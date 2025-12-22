@@ -11,7 +11,7 @@ export default function HowItWorksPage() {
     <div className="container py-10">
       {/* Hero Section */}
       <section className="py-12 md:py-16 lg:py-20 text-center">
-        <h1 className="text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl mb-6">How ReVibe Works</h1>
+        <h1 className="text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl mb-6">How ShopBuddy Works</h1>
         <p className="mx-auto max-w-[700px] text-muted-foreground md:text-xl mb-8">
           Discover how our platform makes sustainable fashion accessible, simple, and impactful.
         </p>
@@ -86,7 +86,7 @@ export default function HowItWorksPage() {
                 <div className="md:w-1/2">
                   <h3 className="text-2xl font-bold mb-4">Item History Timeline</h3>
                   <p className="text-muted-foreground mb-4">
-                    Every item on ReVibe comes with a unique history. Our Item History Timeline shows you where your
+                    Every item on ShopBuddy comes with a unique history. Our Item History Timeline shows you where your
                     items have been and the lives they've touched before reaching you.
                   </p>
                   <ul className="space-y-2 mb-6">
@@ -218,8 +218,8 @@ export default function HowItWorksPage() {
           <TabsContent value="sustainability" className="space-y-12">
             <div className="text-center mb-8">
               <h2 className="text-3xl font-bold tracking-tight mb-4">Our Sustainability Impact</h2>
-              <p className="text-muted-foreground max-w-[700px] mx-auto">
-                Every purchase and sale on ReVibe contributes to a more sustainable fashion ecosystem.
+                <p className="text-muted-foreground max-w-[700px] mx-auto">
+                Every purchase and sale on ShopBuddy contributes to a more sustainable fashion ecosystem.
               </p>
             </div>
 
@@ -314,8 +314,8 @@ export default function HowItWorksPage() {
           <TabsContent value="community" className="space-y-12">
             <div className="text-center mb-8">
               <h2 className="text-3xl font-bold tracking-tight mb-4">Join Our Community</h2>
-              <p className="text-muted-foreground max-w-[700px] mx-auto">
-                ReVibe is more than a marketplace—it's a community of like-minded individuals passionate about
+                <p className="text-muted-foreground max-w-[700px] mx-auto">
+                ShopBuddy is more than a marketplace—it's a community of like-minded individuals passionate about
                 sustainable fashion.
               </p>
             </div>
@@ -395,7 +395,7 @@ export default function HowItWorksPage() {
         <div className="text-center mb-12">
           <h2 className="text-3xl font-bold tracking-tight mb-4">Frequently Asked Questions</h2>
           <p className="text-muted-foreground max-w-[700px] mx-auto">
-            Have questions about how ReVibe works? Find answers to our most commonly asked questions below.
+            Have questions about how ShopBuddy works? Find answers to our most commonly asked questions below.
           </p>
         </div>
 
